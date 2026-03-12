@@ -33,6 +33,6 @@ Here are some projects I’ve built:
 - Node.js (for backend development)  
 
 ## 📫 Contact Me
-- Email: your-email@gmail.com  
-- LinkedIn: [Your LinkedIn URL]  
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- Email: swale412@gmail.com  
+ 
+- GitHub: https://github.com/swale4126-bit
