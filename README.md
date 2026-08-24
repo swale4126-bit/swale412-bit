@@ -2,7 +2,7 @@
 
 🎓 Information Systems Student | Hawassa University  
 💻 Aspiring Web Developer  
-🌱 Currently learning **Node.js**  
+ 
 
 ## 🛠 Skills
 
@@ -27,10 +27,7 @@ Here are some projects I’ve built:
 3. **Medical Clinic System** – Management system for clinic operations  
 4. **Learning Management System (LMS)** – Platform for online courses and student management  
 
----
 
-## 🌱 Currently Learning
-- Node.js (for backend development)  
 
 ## 📫 Contact Me
 - Email: swale412@gmail.com  
