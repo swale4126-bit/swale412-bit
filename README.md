@@ -1,7 +1,7 @@
 # Hi 👋, I'm Wale
 
 🎓 Information Systems Student | Hawassa University  
-💻 Aspiring Web Developer  
+💻 FUll-Stack Web DEveloper 
  
 
 ## 🛠 Skills
